@@ -1,0 +1,11 @@
+a=10
+b=20
+c=30.5
+d="Hello"
+e="50"
+f="naaz"
+print(a+b)
+print(a+c)
+#print(a+d)
+#print(a+e)
+print(d+f)

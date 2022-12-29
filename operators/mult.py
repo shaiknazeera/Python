@@ -1,0 +1,9 @@
+a=10
+b=20
+c=15.5
+d="naaz"
+e="maha"
+print(a*b)
+print(a*c)
+print(a*d)
+print(d*e)
